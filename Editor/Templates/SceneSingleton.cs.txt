@@ -1,0 +1,40 @@
+using Five;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : SceneSingleton<#SCRIPTNAME#>
+{
+    // Statics
+
+    // Constants
+
+    // Private Members
+
+    // Serialized Private Members
+
+    // Public Members
+
+    // Private Properties
+
+    // Public Properties
+
+    // EventHandlers
+
+    protected override void OnDestroy()
+    {
+        base.OnDestroy();
+    }
+
+    // PrivateMethods
+
+    // ProtectedMethods
+
+    protected override void Awake()
+    {
+        base.Awake();
+    }
+
+    // PublicMethods
+
+}
+#ROOTNAMESPACEEND#

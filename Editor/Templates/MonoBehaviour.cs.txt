@@ -1,0 +1,29 @@
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    // Statics
+
+    // Constants
+
+    // Private Members
+
+    // Serialized Private Members
+
+    // Public Members
+
+    // Private Properties
+
+    // Public Properties
+
+    // EventHandlers
+
+    // PrivateMethods
+
+    // ProtectedMethods
+
+    // PublicMethods
+
+}
+#ROOTNAMESPACEEND#
