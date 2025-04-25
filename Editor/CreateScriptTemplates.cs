@@ -4,7 +4,7 @@ namespace Toolbox.ScriptTemplates
 {
     public static class CreateScriptTemplates
     {
-        private const string TemplateFolderPath = "Package/com.game5mobile.scripttemplate/Editor/Templates/";
+        private const string TemplateFolderPath = "Packages/com.game5mobile.scripttemplate/Editor/Templates/";
 
         [MenuItem("Assets/Create/Script/Scene Singleton", priority = -1)]
         public static void CreateSceneSingleton()
